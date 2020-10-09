@@ -1,0 +1,9 @@
+# Assignment_5
+int multiplier=12;
+		int result=0;
+		
+		for(int i=1; i<=10;i++ ) {
+			result=multiplier*i;
+			System.out.println("12 X "+ i +" = " +result);
+		
+		}
