@@ -1,0 +1,13 @@
+# Assignment_5
+int a=0;//0 1 1 2 3 5 8
+		int b=1;//a b c
+		int c=0;
+	for (int i=0; i<(100); i++ ) {
+		c=a+b;
+		System.out.print(a + ", "+ b+ ", "+c +", ");
+		a=b+c;
+		b=a+c;
+		
+		
+	}
+		
